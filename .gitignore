@@ -1,0 +1,6 @@
+vendor
+tests/coverage
+phpunit.xml
+ruleset.xml
+example
+config
