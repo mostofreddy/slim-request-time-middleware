@@ -1,3 +1,5 @@
+**Deprecated**
+
 Slim request time middleware
 =====
 
